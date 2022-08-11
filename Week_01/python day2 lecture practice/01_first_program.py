@@ -1,0 +1,5 @@
+print("2+3")
+print("hello")
+print("hello world")
+print(2+3)
+print("i am learning python online")
